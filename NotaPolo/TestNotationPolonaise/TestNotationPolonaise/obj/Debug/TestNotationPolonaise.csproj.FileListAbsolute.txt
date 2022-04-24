@@ -1,0 +1,14 @@
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe.config
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.pdb
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csprojAssemblyReference.cache
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csproj.CoreCompileInputs.cache
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.exe
+G:\test\testVisualStudio2019\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.pdb
+D:\El_Folder\Boulot\Coding\Source\Repos\Nathanwack\NotaPolo\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe.config
+D:\El_Folder\Boulot\Coding\Source\Repos\Nathanwack\NotaPolo\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.exe
+D:\El_Folder\Boulot\Coding\Source\Repos\Nathanwack\NotaPolo\TestNotationPolonaise\TestNotationPolonaise\bin\Debug\TestNotationPolonaise.pdb
+D:\El_Folder\Boulot\Coding\Source\Repos\Nathanwack\NotaPolo\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csprojAssemblyReference.cache
+D:\El_Folder\Boulot\Coding\Source\Repos\Nathanwack\NotaPolo\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.csproj.CoreCompileInputs.cache
+D:\El_Folder\Boulot\Coding\Source\Repos\Nathanwack\NotaPolo\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.exe
+D:\El_Folder\Boulot\Coding\Source\Repos\Nathanwack\NotaPolo\TestNotationPolonaise\TestNotationPolonaise\obj\Debug\TestNotationPolonaise.pdb
